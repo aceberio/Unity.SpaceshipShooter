@@ -1,6 +1,6 @@
 # Unity.SpaceshipShooter
 - Test https://aceberio.github.io/Unity.SpaceshipShooter/
-- 2D.
+- 2D (504x896).
 - Scenes.
 - Sprites.
 - Colliders.
